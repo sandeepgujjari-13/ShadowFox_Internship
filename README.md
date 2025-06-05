@@ -4,4 +4,4 @@ You can checkout my Certifciate here **[ShadowFox_Sandeep_Gujjari.png](https://g
 
 Certifcate Number - **SF04VIP42**
 
-And you can verify the certificate at **[ShadowFox_Certificate_Verification](__https://shadowfox.in/verification/verify.html__)**
+And you can verify the certificate at **[ShadowFox_Certificate_Verification](https://shadowfox.in/verification/verify.html)**
